@@ -1,0 +1,6 @@
+E:\visual studio 2015\Projects\学习02MEF\Output\Plugins\SayHi.XML
+E:\visual studio 2015\Projects\学习02MEF\Output\Plugins\SayHi.dll
+E:\visual studio 2015\Projects\学习02MEF\Output\Plugins\SayHi.pdb
+E:\visual studio 2015\Projects\学习02MEF\SayHi\obj\Debug\SayHi.csprojResolveAssemblyReference.cache
+E:\visual studio 2015\Projects\学习02MEF\SayHi\obj\Debug\SayHi.dll
+E:\visual studio 2015\Projects\学习02MEF\SayHi\obj\Debug\SayHi.pdb

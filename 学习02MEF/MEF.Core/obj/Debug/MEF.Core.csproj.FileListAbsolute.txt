@@ -1,0 +1,9 @@
+E:\visual studio 2015\Projects\学习02MEF\Outpt\MEF.Core.XML
+E:\visual studio 2015\Projects\学习02MEF\Outpt\MEF.Core.dll
+E:\visual studio 2015\Projects\学习02MEF\Outpt\MEF.Core.pdb
+E:\visual studio 2015\Projects\学习02MEF\MEF.Core\obj\Debug\MEF.Core.csprojResolveAssemblyReference.cache
+E:\visual studio 2015\Projects\学习02MEF\MEF.Core\obj\Debug\MEF.Core.dll
+E:\visual studio 2015\Projects\学习02MEF\MEF.Core\obj\Debug\MEF.Core.pdb
+E:\visual studio 2015\Projects\学习02MEF\Output\MEF.Core.XML
+E:\visual studio 2015\Projects\学习02MEF\Output\MEF.Core.dll
+E:\visual studio 2015\Projects\学习02MEF\Output\MEF.Core.pdb

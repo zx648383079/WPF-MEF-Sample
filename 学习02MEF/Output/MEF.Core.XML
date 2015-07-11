@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MEF.Core</name>
+    </assembly>
+    <members>
+        <member name="T:MEF.Core.IPlugin">
+            <summary>
+            核心接口
+            </summary>
+        </member>
+        <member name="P:MEF.Core.IPlugin.Text">
+            <summary>
+            传递的内容
+            </summary>
+        </member>
+        <member name="M:MEF.Core.IPlugin.Do">
+            <summary>
+            触发的事件
+            </summary>
+        </member>
+    </members>
+</doc>
